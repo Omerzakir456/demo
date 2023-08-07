@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="talha.xslt"?>
+<products>
+
+<product>
+       <id>p-001</id>
+       <name>Talha</name>
+       <prices>10</prices>
+</product>
+
+<product>
+       <id>p-002</id>
+       <name>Usman</name>
+       <prices>15</prices>
+</product>
+
+<product>
+        <id>p-003</id>
+        <name>Hamza</name>
+        <prices>30</prices>
+</product>
+
+<product>
+        <id>p-004</id>
+        <name>Taha</name>
+        <prices>20</prices>
+</product>
+
+
+<product>
+        <id>p-005</id>
+        <name>Areeb</name>
+        <prices>30</prices>
+</product>
+
+
+<product>
+        <id>p-006</id>
+        <name>Waqas</name>
+        <prices>40</prices>
+</product>
+
+
+<product>
+        <id>p-007</id>
+        <name>Mahad</name>
+        <prices>35</prices>
+</product>
+
+
+<product>
+        <id>p-008</id>
+        <name>Mazz</name>
+        <prices>45</prices>
+</product>
+
+
+<product>
+        <id>p-009</id>
+        <name>Ebad</name>
+        <prices>50</prices>
+</product>
+
+
+<product>
+        <id>p-010</id>
+        <name>Emad</name>
+        <prices>55</prices>
+</product>
+</products>

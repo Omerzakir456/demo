@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type=text/xsl href="abc.xslt">
+<cars>
+<car>
+     <car_name> Suzuki </car_name>
+     <car_reg> KJY-4635 </car_reg>
+     <car_eng> abc-123 </car_eng>
+</car>
+
+<car>
+    <car_name> Corolla </car_name>
+    <car_reg> KJY-4635 </car_reg>
+    <car_eng> abc-456 </car_eng>
+</car>
+
+<car>
+    <car_name> Toyota </car_name>
+    <car_reg> KJY-4635 </car_reg>
+    <car_eng> abc-789 </car_eng>
+</car>
+
+<car>
+    <car_name> Civic </car_name>
+    <car_reg> KJY-4634 </car_reg>
+    <car_eng> abc-0123 </car_eng>
+</car>
+</cars>

@@ -1,0 +1,13 @@
+<!DOCTYPE Mobile [
+<!ELEMENT Mobile (Company,Model,Price,Access)>
+<!ELEMENT Company (#PCDATA)>
+<!ELEMENT Model (#PCDATA)>
+<!ELEMENT Price (#PCDATA)>
+<!ELEMENT Access (#PCDATA)>
+<!ATTLIST Model type CDATA "nokia">
+<!ATTLIST Model colour CDATA "black">
+<!ATTLIST Model md CDATA "2023">
+<!ENTITY ST "Storage 64 GB">
+<!ENTITY PS "Processor 64 GB">
+<!ENTITY CM "Camer 64">
+]>
